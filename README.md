@@ -2,22 +2,27 @@
 
 This is a repository being used with a CDN service for web assets on AMS websites.
 
-[https://rawgit.org/](RawGit)
+[https://rawgit.org/](jsDelivr)
+
+jsDelivr is a free, fast, and reliable Open Source CDN for npm and GitHub.
+Most GitHub links can be easily converted to jsDelivr links.
+
+[https://www.jsdelivr.com/github](Migrating from GitHub to jsDelivr)
 
 ### To Use The CDN:
 
 Combine the base path with the file permalink to get the full URL
 
-Base path: `https://glcdn.rawgit.org/asset-marketing-systems/static-assets`
+Base path: `https://cdn.jsdelivr.net/gh/Asset-Marketing-Systems/static-assets`
 
 ###### Example:
 
-`https://glcdn.rawgit.org/asset-marketing-systems/static-assets` 
+`https://cdn.jsdelivr.net/gh/Asset-Marketing-Systems/static-assets` 
 
-appended with
+appended with the asset commit hash and path
 
-`/4ad95654b18b68753d510e7bac35d463481878c4/logos/svg/asset_logo_solid_aqua.svg` 
+`@3b78de4fbb65611a243a8ab8064940410fbc1076/logos/svg/asset_logo_solid_aqua.svg` 
 
 links to
 
-[https://glcdn.rawgit.org/asset-marketing-systems/static-assets/4ad95654b18b68753d510e7bac35d463481878c4/logos/svg/asset_logo_solid_aqua.svg](https://glcdn.rawgit.org/asset-marketing-systems/static-assets/4ad95654b18b68753d510e7bac35d463481878c4/logos/svg/asset_logo_solid_aqua.svg)
+[https://cdn.jsdelivr.net/gh/Asset-Marketing-Systems/static-assets@3b78de4fbb65611a243a8ab8064940410fbc1076/logos/svg/asset_logo_solid_aqua.svg](https://cdn.jsdelivr.net/gh/Asset-Marketing-Systems/static-assets@3b78de4fbb65611a243a8ab8064940410fbc1076/logos/svg/asset_logo_solid_aqua.svg)
