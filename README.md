@@ -2,7 +2,7 @@
 
 This is a repository being used with a CDN service for web assets on AMS websites.
 
-[https://www.jsdelivr.com/](jsDelivr)
+[jsDelivr](https://www.jsdelivr.com/)
 
 jsDelivr is a free, fast, and reliable Open Source CDN for npm and GitHub.
 Most GitHub links can be easily converted to jsDelivr links.
