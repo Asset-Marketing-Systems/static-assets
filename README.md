@@ -2,12 +2,12 @@
 
 This is a repository being used with a CDN service for web assets on AMS websites.
 
-[https://rawgit.org/](jsDelivr)
+[https://www.jsdelivr.com/](jsDelivr)
 
 jsDelivr is a free, fast, and reliable Open Source CDN for npm and GitHub.
 Most GitHub links can be easily converted to jsDelivr links.
 
-[https://www.jsdelivr.com/github](Migrating from GitHub to jsDelivr)
+[https://www.jsdelivr.com/github/](Migrating from GitHub to jsDelivr)
 
 ### To Use The CDN:
 
